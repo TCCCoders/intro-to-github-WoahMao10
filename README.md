@@ -1,3 +1,5 @@
+course finished do the pull request immediately
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
